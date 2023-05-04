@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table{
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 80%;
+            }
+            
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 6px;
+              text-align: center;
+            }
+            
+            tr:nth-child(odd) {
+              background-color: #dddddd;
+            }
+
+            button {
+                font-family: arial, sans-serif;
+                font-size: 15px;
+            }
+            </style>
+
+        <title>
+            <%= title %>
+        </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>스마트팜 센서 측정값</h1>
+        <form action="/getdata" method="GET">
+            <button type="submit">데이터 불러오기</button>
+        </form>
+        <br>
+        <table>
+        <tr>
+            <th>No</th>
+            <th>광량</th>
+            <th>온도</th>
+            <th>습도</th>
+            <th>측정일시</th>
+        </tr>    
+        <% if(locals.data){ %>
+            <% for(let i=0;i<data.length;i++){ %>
+                <tr>  
+                    <td> <%= data[i].num %></td> 
+                    <td> <%= data[i].cds %> lx </td> 
+                    <td> <%= data[i].temp %> °C </td> 
+                    <td> <%= data[i].humi %> %RH </td> 
+                    <td> <%= data[i].date %> </td> 
+                </tr>
+            <% } %>
+        <% } %>
+        </table>
+    </body>
+</html>
