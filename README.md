@@ -1,4 +1,4 @@
-# Smart-Farm-Arduino-C-
+# SmartFarm
 smart farm project with Arduino and C#
 
 This is a personal project.
