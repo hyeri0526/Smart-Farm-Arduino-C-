@@ -1,0 +1,108 @@
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe.config
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.pdb
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.AssemblyReference.cache
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Form1.resources
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Properties.Resources.resources
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.GenerateResource.cache
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CoreCompileInputs.cache
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.exe
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.pdb
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.pdb
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LHR\아두이노\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CopyComplete
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe.config
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.pdb
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.pdb
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csprojAssemblyReference.cache
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Form1.resources
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Properties.Resources.resources
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.GenerateResource.cache
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CoreCompileInputs.cache
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CopyComplete
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.exe
+C:\저장용폴더\아두이노프로젝트\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.pdb
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe.config
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.exe
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\TempHumi-ex.pdb
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\BouncyCastle.Crypto.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.pdb
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\Google.Protobuf.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\K4os.Hash.xxHash.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\MySql.Data.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Buffers.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.IO.Pipelines.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Memory.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Numerics.Vectors.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.AssemblyReference.cache
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Form1.resources
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi_ex.Properties.Resources.resources
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.GenerateResource.cache
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CoreCompileInputs.cache
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.csproj.CopyComplete
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.exe
+E:\LHR\Arduino Project\TempHumi-ex\TempHumi-ex\obj\Debug\TempHumi-ex.pdb
